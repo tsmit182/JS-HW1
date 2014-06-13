@@ -1,42 +1,56 @@
-// firstName = "Taylor"
-// console.log(firstName)
+/*
 
-// lastName = "Smith"
-// console.log(lastName)
+Using JavaScript
 
-// age = 2014 - 1986
-// console.log(age)
+Some variables that write to the console
 
-// favColor = "blue"
-// console.log(favColor)
-
-// voluntarist = true
-// console.log(voluntarist)
+*/
 
 
-// var truthStatement = "A equals A"
-// .split(truthStatement)
+firstName = "Taylor"
+console.log(firstName)
 
-// var anotherStatement = "Shoop de doop-doop de da, daaaa."
-// .concat(anotherStatement)
+lastName = "Smith"
+console.log(lastName)
 
-// 		aString = "Hello, I am a string."
-// 		.concat(aString)
+age = 27
+console.log(age)
 
-// var thirdStatement = "'You’ve been all over the world, you’ve hunted just about every kind of game, you’ve stalked elephant, lions, tigers, polar bears, deer, you’ve been within 15, 20 yards the most dangerous game in the world. You’ve been everywhere. You’ve been with some of the most famous guides and hunters in the world. What’s the biggest thrill you’ve ever had out of all of that?' 'Well, I think I can answer that best by calling attention to the ...'
+favColor = "blue"
+console.log(favColor)
 
-// 'Bazooka Tooth, bitch.'" 
-// thirdStatement.length
+voluntarist = true
+console.log(voluntarist)
+
+/*
+Some variable strings with operators called upon them
+*/
+
+var truthStatement = "A equals A"
+.split(truthStatement)
+
+var anotherStatement = "Shoop de doop-doop de da, daaaa."
+.concat(anotherStatement)
+
+		aString = "Hello, I am a string."
+		.concat(aString)
+
+var thirdStatement = "'You’ve been all over the world, you’ve hunted just about every kind of game, you’ve stalked elephant, lions, tigers, polar bears, deer, you’ve been within 15, 20 yards the most dangerous game in the world. You’ve been everywhere. You’ve been with some of the most famous guides and hunters in the world. What’s the biggest thrill you’ve ever had out of all of that?' 'Well, I think I can answer that best by calling attention to the ...'
+
+'Bazooka Tooth, bitch.'" 
+thirdStatement.length
 
 
+/*
+An array that has operators called upon it
+*/
+myArray = [1, 2, 4, 8, 16, 32, "doubling", "numbers", "awesome", "mostly even"]
 
-// myArray = [1, 2, 4, 8, 16, 32, "doubling", "numbers", "awesome", "mostly even"]
+myArray.length
 
-// myArray.length
-
-// myArray.push()
-// myArray.pop()
-// myArray.join()
-// myArray.reverse()
-// myArray.splice()
+myArray.push()
+myArray.pop()
+myArray.join()
+myArray.reverse()
+myArray.splice()
 
