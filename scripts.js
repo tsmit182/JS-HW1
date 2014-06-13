@@ -37,7 +37,7 @@ var anotherStatement = "Shoop de doop-doop de da, daaaa."
 
 var thirdStatement = "'You’ve been all over the world, you’ve hunted just about every kind of game, you’ve stalked elephant, lions, tigers, polar bears, deer, you’ve been within 15, 20 yards the most dangerous game in the world. You’ve been everywhere. You’ve been with some of the most famous guides and hunters in the world. What’s the biggest thrill you’ve ever had out of all of that?' 'Well, I think I can answer that best by calling attention to the ...'
 
-'Bazooka Tooth, bitch.'" 
+'Bazooka Tooth.'" 
 thirdStatement.length
 
 
