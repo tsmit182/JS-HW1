@@ -1,16 +1,16 @@
 /*Some simple numerical operations using JavaScript*/
 
-3 > 5 = false
+console.log(3 > 5)
 
-2 == 2
+console.log(2 == 2)
 
-2 === 2
+console.log(2 === 2)
 
-2 === "2"
+console.log(2 === "2")
 
-5 / 2
+console.log(5 / 2)
 
-5 / 0
+console.log(5 / 0)
 
 
 /*
@@ -18,7 +18,7 @@ Some conditional statements using "if" and "else" and variables
 */
 
 if (5 / 0 != 0) {
-	console.log("It sure ain't.");
+	console.log("Dividing by zero is weird.");
 } else {
 	console.log("Oatmeal? Are you crazy?")
 }
