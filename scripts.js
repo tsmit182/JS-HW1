@@ -6,7 +6,6 @@ Some variables that write to the console
 
 */
 
-
 firstName = "Taylor"
 console.log(firstName)
 
@@ -32,8 +31,8 @@ var truthStatement = "A equals A"
 var anotherStatement = "Shoop de doop-doop de da, daaaa."
 .concat(anotherStatement)
 
-		aString = "Hello, I am a string."
-		.concat(aString)
+aString = "Hello, I am a string."
+.concat(aString)
 
 var thirdStatement = "oh okay all day every day" 
 thirdStatement.length
@@ -44,11 +43,27 @@ An array that has operators called upon it
 */
 myArray = [1, 2, 4, 8, 16, 32, "doubling", "numbers", "awesome", "mostly even"]
 
-myArray.length
-
 myArray.push()
 myArray.pop()
 myArray.join()
 myArray.reverse()
-myArray.splice()
+myArray.splice(" ")
+
+var myArrayReveal = 
+
+myArray.push()
+console.log(myArray)
+myArray.pop()
+console.log(myArray)
+myArray.join()
+console.log(myArray)
+myArray.reverse()
+console.log(myArray)
+myArray.splice(" ")
+console.log(myArray)
+
+/*something to show the whole thing*/
+
+var functHW1 = function("firstName","lastName","age","favColor","voluntarist","truthStatement","anotherStatement","aString","thirdStatement","myArrayReveal")
+
 
