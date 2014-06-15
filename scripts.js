@@ -8,7 +8,7 @@ Some variables that write to the console
 
 firstName = "Taylor"
 console.log(firstName)
-
+		
 lastName = "Smith"
 console.log(lastName)
 
@@ -43,24 +43,28 @@ An array that has operators called upon it
 */
 myArray = [1, 2, 4, 8, 16, 32, "doubling", "numbers", "awesome", "mostly even"]
 
-myArray.push()
-myArray.pop()
-myArray.join()
-myArray.reverse()
-myArray.splice(" ")
+// myArray.push()
+// myArray.pop()
+// myArray.join()
+// myArray.reverse()
+// myArray.splice(" ")
 
-var myArrayReveal = 
+// var myArrayReveal = 
 
-myArray.push()
-console.log(myArray)
-myArray.pop()
-console.log(myArray)
-myArray.join()
-console.log(myArray)
-myArray.reverse()
-console.log(myArray)
-myArray.splice(" ")
-console.log(myArray)
+// myArray.push()
+// console.log(myArray)
+// myArray.pop()
+// console.log(myArray)
+// myArray.join()
+// console.log(myArray)
+// myArray.reverse()
+// console.log(myArray)
+// myArray.splice(" ")
+// console.log(myArray)
+// !! This was not providing the 
+// !! results I was looking for.
+
+
 
 /*something to show the whole thing*/
 
