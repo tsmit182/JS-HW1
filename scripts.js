@@ -41,14 +41,19 @@ thirdStatement.length
 /*
 An array that has operators called upon it
 */
-myArray = [1, 2, 4, 8, 16, 32, "doubling", "numbers", "awesome", "mostly even"]
 
-// myArray.push()
-// myArray.pop()
-// myArray.join()
-// myArray.reverse()
+muhArray = [1, 2, 4, 8, 16, 32, "doubling", "numbers", "awesome", "mostly even"];
+
+//Pushing the number 64 to my array.
+var pushIt = muhArray.push(64);
+//Popping the number 64 back out.
+var popIt = muhArray.pop();
+//Join the elements of the array into a string.
+var joinIt = muhArray.join();
+//Reverse the order of the elements in the array.
+var reverseIt = muhArray.reverse();
 // myArray.splice(" ")
-
+var spliceIt = muhArray.splice(1);
 // var myArrayReveal = 
 
 // myArray.push()
