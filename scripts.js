@@ -25,16 +25,14 @@ console.log(voluntarist)
 Some variable strings with operators called upon them
 */
 
-var truthStatement = "A equals A"
-.split(truthStatement)
+var truthStatement = "A equals A";
+truthStatement.split()
 
 var anotherStatement = "Shoop de doop-doop de da, daaaa."
-.concat(anotherStatement)
+anotherStatement.concat(" Zweebily dweebily dee-dum!");
 
-aString = "Hello, I am a string."
-.concat(aString)
 
-var thirdStatement = "oh okay all day every day" 
+var thirdStatement = "oh okay all day every day";
 thirdStatement.length
 
 
@@ -73,6 +71,7 @@ var spliceIt = muhArray.splice(1);
 
 /*something to show the whole thing*/
 
-var functHW1 = function("firstName","lastName","age","favColor","voluntarist","truthStatement","anotherStatement","aString","thirdStatement","myArrayReveal")
+// var functHW1 = function("firstName","lastName","age","favColor","voluntarist","truthStatement","anotherStatement","aString","thirdStatement","myArrayReveal")
 
 
+console.log(firstName, lastName, age, favColor, voluntarist, truthStatement.split(" "), anotherStatement.concat(" Zweebily dweebily dee-dum!"), thirdStatement.length, pushIt, popIt, joinIt, reverseIt, spliceIt);

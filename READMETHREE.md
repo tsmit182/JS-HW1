@@ -1,4 +1,4 @@
-READMETHREE.md
+<!-- READMETHREE.md
 
 //You will be using .map(), .reduce(), and .forEach()
  
@@ -18,3 +18,6 @@ READMETHREE.md
 // Medium Size, Welcome To Our Firepit-Where Friends And Marshmallows Get Toasted At The Same Time-Painted Wood Sign-Custom Colors is made of wood.
 // Magnetic Wall Mount Bottle Opener Barware Set - Stainless Steel or Black - Personalized if you like! is made of wood.
 // Engraved Pocket Knife, Personalized Groomsmen Gift, Ring Bearer Gift, Graduation Gift, 4 Knives is made of wood.
+ -->
+
+See project "jshw3"
